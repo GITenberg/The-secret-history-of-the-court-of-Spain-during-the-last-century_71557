@@ -1,0 +1,27 @@
+_repo: The-secret-history-of-the-court-of-Spain-during-the-last-century_71557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Challice, Rachel
+    gutenberg_agent_id: '35799'
+    url: http://www.gutenberg.org/2009/agents/35799
+description: ''
+gutenberg_issued: '2023-09-03'
+identifiers:
+  gutenberg: '71557'
+language: en
+pgterms:marc904: https://archive.org/details/secrethistoryofc00chaluoft/page/n7/mode/2up
+pgterms:marc905: 20200514062427challice
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: Nahum Maso i Carcases, Emmanuel Ackerman, Neil Mercer and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Applenton & Company, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The secret history of the court of Spain during the last century
+url: http://www.gutenberg.org/ebooks/71557
