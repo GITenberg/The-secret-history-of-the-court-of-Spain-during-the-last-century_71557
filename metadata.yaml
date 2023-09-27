@@ -1,11 +1,16 @@
 _repo: The-secret-history-of-the-court-of-Spain-during-the-last-century_71557
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71557-h/images/cover.jpg
 creator:
   author:
     agent_name: Challice, Rachel
     gutenberg_agent_id: '35799'
     url: http://www.gutenberg.org/2009/agents/35799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71557#The-secret-history-of-the-court-of-Spain-during-the-last-century
 gutenberg_issued: '2023-09-03'
 identifiers:
   gutenberg: '71557'
